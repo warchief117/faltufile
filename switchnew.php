@@ -22,4 +22,4 @@
                     <img scr ="profile.jpg" alt="IT_consultant" width="125" height="125"
                 </center>
                 </body>
-    </center>
+
