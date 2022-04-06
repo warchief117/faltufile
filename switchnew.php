@@ -11,7 +11,7 @@
                 background-image : url("code.gif");
                 background-color: grey;            }
                 </style>
-                </head>
+              
                 <body>
                 <h1>atul k</h1>
                 <h2>it consultant</h2>
